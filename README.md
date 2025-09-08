@@ -9,7 +9,7 @@
   
 - 📝 I regularly write articles on [Medium](https://medium.com/@yeyan1996) and [juejin.cn](https://juejin.cn/user/2400989094099086)
 
-- 📫 How to reach me [howie310103@gmail.com](mailto:howie310103@gmail.com)
+- 📫 How to reach me [zzzzzhowie@gmail.com](mailto:zzzzzhowie@gmail.com)
 
 <p align='left'></p>
 

@@ -1,7 +1,7 @@
 <h1 align='center'>Hi 👋, I'm Howie Zhou</h1>
 <h3 align='center'>A passionate full-stack software engineer</h3>
 
-- 💻 I'm proficient in Product Development and Web Infrastructure
+- 💻 I'm proficient in full-stack development (TypeScript + Node.js & Python)
 
 - 🧑‍💻 I worked at TikTok, ByteDance and Bilibili (#26 most-visited websites globally, according to [Wikipedia](https://en.wikipedia.org/wiki/List_of_most-visited_websites))
 

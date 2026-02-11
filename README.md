@@ -106,10 +106,10 @@
 </p>
 
 
-<p><img align='left'
+<!-- <p><img align='left'
 				src='https://github-readme-stats.vercel.app/api/top-langs?username=zzzzzhowie&show_icons=true&locale=en&layout=compact'
-				alt='zzzzzhowie' /></p>
+				alt='zzzzzhowie' /></p> -->
 
 <p>&nbsp;<img align='center'
-							src='https://github-readme-stats.vercel.app/api?username=zzzzzhowie&show_icons=true&locale=en'
+							src='./profile/stats.svg'
 							alt='zzzzzhowie' /></p>

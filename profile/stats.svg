@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Howie Zhou's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 1440, Total Commits  (last year) : 68, Total PRs: 73, Total Issues: 19, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 1439, Total Commits  (last year) : 68, Total PRs: 73, Total Issues: 19, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 94.33851120243817;
+        stroke-dashoffset: 94.34039922701426;
       }
     }
   

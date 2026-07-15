@@ -1,5 +1,4 @@
-<h1 align='center'>Hi 👋, I'm Howie Zhou</h1>
-<h3 align='center'>A passionate full-stack software engineer</h3>
+<h1 align='center'>Hi 👋, I'm Howie</h1>
 
 - 💻 I'm proficient in full-stack development (TypeScript + Node.js & Python)
 

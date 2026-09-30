@@ -1,10 +1,10 @@
 <h1 align='center'>Hi 👋, I'm Howie</h1>
 
-- 💻 I'm proficient in full-stack development (TypeScript + Node.js & Python)
+- 💻 I'm proficient in full-stack development (TypeScript + Python & Go)
 
 - 🧑‍💻 I worked at TikTok, ByteDance and Bilibili ([#26 most-visited websites](https://en.wikipedia.org/wiki/List_of_most-visited_websites) globally)
 
-- 🌱 I’m currently developing General-purpose AI Agents ([Suna](https://github.com/Kortix-ai/Suna) 🤖, [LangGraph](https://github.com/langchain-ai/langgraph) 🦜, [OpenHands](https://github.com/All-Hands-AI/OpenHands) 🙌)
+- 🌱 I’m currently developing A/B Test Platform and General-purpose AI Agent
   
 - 📝 I regularly write articles on [Medium](https://medium.com/@yeyan1996) and [juejin.cn](https://juejin.cn/user/2400989094099086)
 

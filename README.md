@@ -1,6 +1,6 @@
 <h1 align='center'>Hi 👋, I'm Howie</h1>
 
-- 💻 I'm proficient in full-stack development (TypeScript + Python & Go)
+- 💻 I'm proficient in full-stack development (TypeScript, Python, Go)
 
 - 🧑‍💻 I worked at TikTok, ByteDance and Bilibili ([#26 most-visited websites](https://en.wikipedia.org/wiki/List_of_most-visited_websites) globally)
 
